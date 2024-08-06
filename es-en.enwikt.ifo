@@ -1,8 +1,0 @@
-StarDict's dict ifo file
-version=3.0.0
-bookname=enwikt (es-en)
-wordcount=105463
-idxfilesize=2025503
-sametypesequence=h
-synwordcount=2341169
-description=es-en dictionary, published by Jeff Doozan using en.wiktionary.org data from 2024-08-01. CC-BY-SA
