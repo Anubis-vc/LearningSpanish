@@ -1,0 +1,8 @@
+# Machine to Machine Translation
+
+Only about 10 years late to machine translation, but still a ton of fun as my introductory project
+into recurrent networks and attention. While the field has advanced significantly since the inception of this type of architecture, building the sequence to sequence model from scratch helped me understand RNNs, attention dynamics, and language models. Throughout the notebook, I've included exploratory excerpts. They're mostly for myself, but may also help others navigating similar concepts.
+
+The story for why I chose Spanish is a little interesting. In a few months, I'll meet my significant other's family in person for the first time. Their natural apprehension toward me will be amplified by another factor: we do not share a common language. In preparation, I've flung myself into Spanish learning. Every conversation consists of me slowly and deliberately piecing English thoughts into Spanish sentences. It's slow. Which naturally made me wonder, could my computer produce coherent trasnlations better than I could? The answer is yes. Definitely. If my insentient computer can figure out enough patterns to make the language sound correct, so can I. Wish me luck.
+
+Feel free to read through this project, it adheres pretty closely to conventions described at the PyTorch website. In the future I could improve the end/start tokenization, use a bigger data set, and implement better systems for word embeddings, but I found this good enough to run on my personal mac for now. While not a cutting edge project, the model provides a jumping off point for me to keep exploring deep learning.
